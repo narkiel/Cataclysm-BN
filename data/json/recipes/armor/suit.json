@@ -873,6 +873,18 @@
     "components": [ [ [ "faux_fur", 30 ] ] ]
   },
   {
+    "result": "wolfsuit_unstuffed",
+    "type": "recipe",
+    "category": "CC_ARMOR",
+    "subcategory": "CSC_ARMOR_SUIT",
+    "skill_used": "tailor",
+    "difficulty": 1,
+    "time": "15 m",
+    "autolearn": true,
+    "qualities": [ { "id": "CUT", "level": 1 } ],
+    "components": [ [ [ "wolfsuit", 1 ] ] ]
+  },
+  {
     "result": "dinosuit",
     "type": "recipe",
     "category": "CC_ARMOR",
@@ -883,6 +895,18 @@
     "autolearn": true,
     "using": [ [ "sewing_standard", 200 ] ],
     "components": [ [ [ "faux_fur", 30 ] ] ]
+  },
+   {
+    "result": "dinosuit_unstuffed",
+    "type": "recipe",
+    "category": "CC_ARMOR",
+    "subcategory": "CSC_ARMOR_SUIT",
+    "skill_used": "tailor",
+    "difficulty": 1,
+    "time": "15 m",
+    "autolearn": true,
+    "qualities": [ { "id": "CUT", "level": 1 } ],
+    "components": [ [ [ "dinosuit", 1 ] ] ]
   },
   {
     "result": "sparkledogsuit",
