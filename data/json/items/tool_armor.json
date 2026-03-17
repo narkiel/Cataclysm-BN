@@ -731,7 +731,7 @@
     "covers": [ "head" ],
     "magazine_well": "250 ml"
   },
-      {
+  {
     "id": "sparkledogsuit",
     "copy-from": "wolfsuit",
     "type": "TOOL_ARMOR",
@@ -741,7 +741,7 @@
     "price_postapoc": "3 USD",
     "color": "c_pink_green",
     "ammo": "battery",
-"use_action": {
+    "use_action": {
       "type": "transform",
       "msg": "You turn your fursuit's LEDs on.",
       "target": "sparkledogsuit_on",
