@@ -896,7 +896,7 @@
     "using": [ [ "sewing_standard", 200 ] ],
     "components": [ [ [ "faux_fur", 30 ] ] ]
   },
-   {
+  {
     "result": "dinosuit_unstuffed",
     "type": "recipe",
     "category": "CC_ARMOR",
@@ -924,10 +924,7 @@
       [ [ "cable", 5 ] ],
       [ [ "e_scrap", 3 ] ],
       [ [ "circuit", 1 ] ],
-      [ 
-        [ "superglue", 3],
-        [ "bone_glue", 3]
-      ]
+      [ [ "superglue", 3 ], [ "bone_glue", 3 ] ]
     ]
   },
   {
