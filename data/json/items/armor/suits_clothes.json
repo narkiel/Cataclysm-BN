@@ -71,10 +71,9 @@
     "valid_mods": [ "steel_padded", "hard_steel_padded", "alloy_padded", "resized_large", "resized_small" ],
     "flags": [ "OUTER", "SUPER_FANCY" ]
   },
-    {
+  {
     "id": "dinosuit_unstuffed",
-    "type": "ARMOR",
-    "copyfrom": "dinosuit",
+    "copy-from": "dinosuit",
     "name": { "str": "unstuffed dinosaur suit" },
     "description": "A full body costume in the form of an anthropomorphic dinosaur.  Interior padding has been removed to accomodate mutant anatomy, also making it slightly cooler and less encumbering.",
     "weight": "6123 g",
@@ -184,7 +183,7 @@
   {
     "id": "wolfsuit_unstuffed",
     "type": "ARMOR",
-    "copyfrom": "wolfsuit",
+    "copy-from": "wolfsuit",
     "name": { "str": "unstuffed wolf suit" },
     "description": "A full body fursuit in the form of an anthropomorphic wolf.  Interior padding has been removed to accomodate mutant anatomy, also making it slightly cooler and less encumbering.",
     "weight": "6123 g",
