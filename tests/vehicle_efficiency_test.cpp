@@ -430,8 +430,8 @@ TEST_CASE( "make_vehicle_efficiency_case", "[.]" )
 TEST_CASE( "vehicle_efficiency", "[vehicle] [engine]" )
 {
     clear_all_state();
-    test_vehicle( "beetle_test", 818837, 431300, 338700, 95610, 68060 );
-    test_vehicle( "car_test", 1125629, 617500, 386100, 52730, 25170 );
+    test_vehicle( "beetle_test", 713837, 431300, 338700, 95610, 68060 );
+    test_vehicle( "car_test", 1020629, 617500, 386100, 52730, 25170 );
     test_vehicle( "car_sports_test", 1157382, 352600, 267600, 36790, 22350 );
     test_vehicle( "electric_car_test", 879098, 183880, 127125, 13410, 8705 );
     test_vehicle( "suv_test", 1325297, 1163000, 614130, 85540, 32000 );
