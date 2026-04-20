@@ -4185,7 +4185,7 @@
       [ "REAM", 1 ]
     ]
   },
-   {
+  {
     "type": "GENERIC",
     "id": "reinforced_glass_pane",
     "symbol": "]",
@@ -4200,5 +4200,5 @@
     "volume": "3 L",
     "bashing": 4,
     "to_hit": -2
-  },
+  }
 ]
